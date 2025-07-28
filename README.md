@@ -51,6 +51,13 @@ Traditional methods of digging through manuals for product specifications are in
 ---
 
 ---
+### 🔗 Connect on LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafsa%20Ahmed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hafsa-ahmed-0a132b32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+---
 
 ## 📂 How to Use
 
@@ -61,7 +68,8 @@ To explore and run any of these projects locally, follow the setup instructions 
 ```bash
 git clone [https://github.com/YOUR_USERNAME/your-capstone-repo.git](https://github.com/YOUR_USERNAME/your-capstone-repo.git)
 cd your-capstone-repo
-pip install -r requirements.txt
-* `### 🔗 Connect on LinkedIn:
-    * **LinkedIn Badge:** `[![LinkedIn](https://www.linkedin.com/in/hafsa-ahmed-0a132b32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]() ` 
+pip install -r requirements.txt`
+
+
+
 
