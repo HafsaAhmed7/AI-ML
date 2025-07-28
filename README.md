@@ -4,7 +4,7 @@ Welcome to a showcase of real-world machine learning solutions designed to tackl
 
 ---
 
-## 📊 Project 1: End-to-End ML Pipeline for Customer Churn Prediction
+## 📊 Project 1:  End-to-End ML Pipeline with Scikit-learn Pipeline API
 
 ### 🎯 Goal/Purpose
 Can a machine learning model accurately **predict customer churn** before it's too late, enabling proactive retention strategies and minimizing revenue loss?
@@ -20,7 +20,7 @@ This project delivers a **production-ready ML pipeline** built entirely with Sci
 
 ---
 
-## 🤖 Project 2: Auto Ticket Assignment Using NLP (BERT)
+## 🤖 Project 2: Auto Ticket Assignment (BERT)
 
 ### 🎯 Goal/Purpose
 What if IT **support tickets could route themselves**, drastically reducing manual effort and improving resolution times?
@@ -35,7 +35,7 @@ Manual ticket assignment is a major bottleneck, draining IT resources, leading t
 
 ---
 
-## 💬 Project 3: Context-Aware Chatbot for UV Detectors (LangChain + OpenAI + Streamlit)
+## 💬 Project 3: Context-Aware Chatbot (LangChain + OpenAI + Streamlit)
 
 ### 🎯 Goal/Purpose
 What if users could simply **talk to your product documentation** and receive instant, contextually relevant answers?
